@@ -1,0 +1,31 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Api RestFul",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSLacerda/nodeApi.git"
+  },
+  "keywords": [
+    "api",
+    "restful",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Matheus Soares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSLacerda/nodeApi/issues"
+  },
+  "homepage": "https://github.com/MSLacerda/nodeApi#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "body-parser": "^1.17.1",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^4.9.1"
+  }
+}
